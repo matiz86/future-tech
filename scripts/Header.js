@@ -35,5 +35,3 @@ class Header {
 }
 
 export default Header;
-
-addEventListener;
